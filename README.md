@@ -3,7 +3,7 @@
 - 👀 I’m interested in any programming
 - 🌱 I’m currently learning tandem pathway programming
 - 💞️ I’m looking to collaborate on iot
-- 📫 How to reach me sailokeshaithagoni@gmail.com
+- 📫 How to reach me sailokeshgoud@gmail.com
 
 <!---
 sailokeshaithagoni/sailokeshaithagoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
